@@ -11,6 +11,9 @@ To get started, go [here](https://github.com/reverb-app/reverb).
 # The Team
 
 [Morgan Davis]()
+
 [Blake Fromkin]()
+
 [Christopher Perkins]()
+
 [Vincent Sijssens]()
