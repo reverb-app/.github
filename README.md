@@ -6,7 +6,7 @@ Please check out our [website](https://reverb-app.github.io) to learn more!
 
 # API
 
-To get started, go [here](https://github.com/reverb-app/reverb).
+To get started with Reverb, go [here](https://github.com/reverb-app/reverb).
 
 # The Team
 
