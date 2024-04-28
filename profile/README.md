@@ -4,7 +4,7 @@ Reverb is an open-source, **event-driven, asynchronous workflow engine** that ab
 
 Please check out our [website](https://reverb-app.github.io) to learn more!
 
-# API
+# Usage
 
 To get started with Reverb, go [here](https://github.com/reverb-app/reverb).
 
