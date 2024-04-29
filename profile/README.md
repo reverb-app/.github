@@ -12,7 +12,7 @@ To get started with Reverb, go [here](https://github.com/reverb-app/reverb).
 
 [Morgan Davis]()
 
-[Blake Fromkin](https://blakefromkin.github.io/){:target="_blank"}
+[Blake Fromkin](https://blakefromkin.github.io/)
 
 [Christopher Perkins]()
 
