@@ -14,6 +14,6 @@ To get started with Reverb, go [here](https://github.com/reverb-app/reverb).
 
 [Blake Fromkin](https://blakefromkin.github.io/)
 
-[Christopher Perkins]()
+[Christopher Perkins](https://perkins.guru)
 
 [Vincent Sijssens]()
