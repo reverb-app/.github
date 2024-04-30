@@ -10,10 +10,10 @@ To get started with Reverb, go [here](https://github.com/reverb-app/reverb).
 
 # The Team
 
-[Morgan Davis]()
+[Morgan Davis](https://morgansummerdavis.com/)
 
-[Blake Fromkin]()
+[Blake Fromkin](https://blakefromkin.github.io/)
 
-[Christopher Perkins]()
+[Christopher Perkins](https://perkins.guru/)
 
-[Vincent Sijssens]()
+[Vincent Sijssens](https://vincent-sijssens.github.io/)
